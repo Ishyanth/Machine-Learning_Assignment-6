@@ -1,2 +1,13 @@
-# Machine Learning_Assignment-6
- Assignment -6
+# Machine Learning_Assignment-6  
+
+Fall 2022 CS5710   
+
+Programming elements: Hierarchical Clustering    
+1. Clustering representations and dendrogram using Single, complete, and average link proximity function in hierarchical clustering technique.  
+
+2. Taking Credit Card transactions dataset, 
+Preprocessing the data by removing missing values.  
+Applying StandardScaler() and Normalize() functions to scale and normalize raw input data.  
+Using Principal Component Analysis reduced the input dimensions to 2 features.  
+Applying Agglomerative Clustering with k=2,3,4 and 5 on reduced features and visualize result for each k value using scatter plot.  
+Evaluated different variations using Silhouette Scores and Visualize results with a bar chart.  
