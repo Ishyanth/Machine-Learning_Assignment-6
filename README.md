@@ -1,6 +1,6 @@
 # Machine Learning_Assignment-6  
-
 Fall 2022 CS5710   
+Code Explanation Video: https://drive.google.com/file/d/1RBwbZGO76xxpryqymCp46soX5jRIZSZ1/view?usp=sharing
 
 Programming elements: Hierarchical Clustering    
 1. Clustering representations and dendrogram using Single, complete, and average link proximity function in hierarchical clustering technique.  
